@@ -1,0 +1,40 @@
+
+
+.right {
+    display: block;
+    margin-right:2 cm;
+    width: 20%;
+    float:left;
+    object-position:center;
+  }
+  .center{
+    margin-right: auto;
+    margin-left: auto;
+
+  }
+img{
+    max-width: 200%;
+    max-height: 200%;
+    object-position:center;
+    
+}
+body{
+    background-color:#cdcdcd ;
+}
+#Spa{
+    float: right;
+    background-color: white;
+}
+#spa1{
+    float: right;
+    clear: both;
+
+
+}
+.btn btn-success btn-lg{
+    width: 300px;
+    height: 200px;
+}
+#correo{
+    object-position: center;
+}
